@@ -1,4 +1,4 @@
 codebase
 ========
 
-My C++ code base
+My code base, collecting over time.
