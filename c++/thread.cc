@@ -18,6 +18,10 @@
 
 // pthread_self() - return identifier of current thread
 
+// g++ -c thread.cc -lpthread -o thread.o
+// g++ thread.o -o thread
+// ./thread
+
 #include <stdio.h>
 #include <pthread.h>
 
