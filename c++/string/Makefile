@@ -11,4 +11,4 @@ string_test.o:	string_test.cc
 			$(CC) $(CFLAGS) -c string_test.cc 
 
 clean:
-		rm -f file *.o
+		rm -f string_test *.o

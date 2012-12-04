@@ -1,4 +1,6 @@
 // implementation string interface
+#include "string.h"
+
 int strlen(const char *a) {
   int i;
   for (i = 0; a[i] != 0; i++);
